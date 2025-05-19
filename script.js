@@ -45,7 +45,7 @@ function makeCard() {
     if (idx >= names.length) return;
     var name = names[idx];
     var file = name.replaceAll(" ","").replaceAll(",","").replace("and","");
-    var card = generateCard(name, file + ".png", "platformer game", file + "/index.html");
+    var card = generateCard(name, file + ".png", "", urls[idx);
     gridHtml += card; //not elegant, but it works
     
     idx++;
