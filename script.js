@@ -10,7 +10,15 @@ var names = [
   "Rudy and Hollister",
   "Cadence",
   "Isabella",
-  "Kaylee"
+  "Kaylee",
+  "Joan",
+  "George",
+  "Juan",
+  "Kayleb"
+  "Bryan",
+  "Jazmin",
+  "Emily",
+  "Alex"
 ];
 
 var urls = [
@@ -25,7 +33,16 @@ var urls = [
   "https://group-project-13246376.codehs.me/index.html",
   "https://codehs.com/sandbox/id/cadence-border-project-UiCuAD",
   "https://codehs.com/sandbox/id/isabella-community-artwork-m94mX2",
-  "https://codehs.com/sandbox/id/kaylee-community-artwork-A6VKXk"
+  "https://codehs.com/sandbox/id/kaylee-community-artwork-A6VKXk",
+  "https://codehs.com/sandbox/id/new-sandbox-program-ZndTVD",
+  "https://codehs.com/sandbox/id/simple-animation-01Pgx8",
+  "https://codehs.com/share/id/simple-animation-phKUK6/run",
+  "https://codehs.com/sandbox/id/animation-project-Qt76Hb",
+  "https://codehs.com/share/sandbox-program-oMIun5?collaborate=-OPqxzkzqyV-Dn3X_C8j",
+  "https://codehs.com/sandbox/id/new-sandbox-program-nxLKxj",
+  "https://codehs.com/sandbox/id/p5js-duck-animation-EkAMhe",
+  "https://codehs.com/sandbox/magentagoat1486/raining-sky",
+  "https://codehs.com/sandbox/id/car-animation-sJQxnk/run"
 ];
 
 var gridWidth = 4;
