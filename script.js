@@ -1,12 +1,12 @@
 var names = [
   "Mason",
-  "Jacob"
-  "Samantha"
-  "Michelle"
-  "Carlos"
-  "Alice"
-  "Nicholas"
-  "Hollister"
+  "Jacob",
+  "Samantha",
+  "Michelle",
+  "Carlos",
+  "Alice",
+  "Nicholas",
+  "Hollister",
   "Rudy and Hollister"
 ];
 
