@@ -9,7 +9,8 @@ var names = [
   "Hollister",
   "Rudy and Hollister",
   "Cadence",
-  "Isabella"
+  "Isabella",
+  "Kaylee"
 ];
 
 var urls = [
@@ -23,7 +24,8 @@ var urls = [
   "https://codehs.com/sandbox/id/rocket-animation-oassVQ",
   "https://group-project-13246376.codehs.me/index.html",
   "https://codehs.com/sandbox/id/cadence-border-project-UiCuAD",
-  "https://codehs.com/sandbox/id/isabella-community-artwork-m94mX2"
+  "https://codehs.com/sandbox/id/isabella-community-artwork-m94mX2",
+  "https://codehs.com/sandbox/id/kaylee-community-artwork-A6VKXk"
 ];
 
 var gridWidth = 4;
