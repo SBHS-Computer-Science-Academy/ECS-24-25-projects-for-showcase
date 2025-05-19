@@ -8,7 +8,8 @@ var names = [
   "Nicholas",
   "Hollister",
   "Rudy and Hollister",
-  "Cadence"
+  "Cadence",
+  "Isabella"
 ];
 
 var urls = [
@@ -21,7 +22,8 @@ var urls = [
   "https://codehs.com/sandbox/id/function-ZfmyEh",
   "https://codehs.com/sandbox/id/rocket-animation-oassVQ",
   "https://group-project-13246376.codehs.me/index.html",
-  "https://codehs.com/sandbox/id/cadence-border-project-UiCuAD"
+  "https://codehs.com/sandbox/id/cadence-border-project-UiCuAD",
+  "https://codehs.com/sandbox/id/isabella-community-artwork-m94mX2"
 ];
 
 var gridWidth = 4;
