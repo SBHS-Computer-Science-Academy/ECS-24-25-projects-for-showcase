@@ -1,4 +1,6 @@
 var names = [
+  "Emily",
+  "Alex",
   "Mason",
   "Jacob",
   "Samantha",
@@ -16,12 +18,12 @@ var names = [
   "Juan",
   "Kayleb",
   "Bryan",
-  "Jazmin",
-  "Emily",
-  "Alex"
+  "Jazmin"
 ];
 
 var urls = [
+  "https://codehs.com/sandbox/magentagoat1486/raining-sky",
+  "https://codehs.com/sandbox/id/car-animation-sJQxnk/run",
   "https://codehs.com/sandbox/id/car-animation-sS5Cy9",
   "https://codehs.com/sandbox/id/keyboard-interaction-bbPUF5",
   "https://codehs.com/sandbox/id/chatbot1-hsPsNY",
@@ -40,9 +42,7 @@ var urls = [
   "https://codehs.com/sandbox/id/animation-project-Qt76Hb",
   "https://codehs.com/share/sandbox-program-oMIun5?collaborate=-OPqxzkzqyV-Dn3X_C8j",
   "https://codehs.com/sandbox/id/new-sandbox-program-nxLKxj",
-  "https://codehs.com/sandbox/id/p5js-duck-animation-EkAMhe",
-  "https://codehs.com/sandbox/magentagoat1486/raining-sky",
-  "https://codehs.com/sandbox/id/car-animation-sJQxnk/run"
+  "https://codehs.com/sandbox/id/p5js-duck-animation-EkAMhe"
 ];
 
 var gridWidth = 4;
