@@ -14,7 +14,7 @@ var names = [
   "Joan",
   "George",
   "Juan",
-  "Kayleb"
+  "Kayleb",
   "Bryan",
   "Jazmin",
   "Emily",
