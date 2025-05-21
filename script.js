@@ -22,7 +22,8 @@ var names = [
   "Alessandro",
   "Tino",
   "Eduardo",
-  "Cesar"
+  "Cesar",
+  "Adam"
 ];
 
 var urls = [
@@ -49,7 +50,8 @@ var urls = [
   "https://codehs.com/sandbox/id/car-animation-sJQxnk/run",
   "https://codehs.com/sandbox/id/tino-community-artwork-eIWUF0",
   "https://codehs.com/sandbox/id/eduardo-community-artwork-vSp0PC",
-  "https://esaeyaznev-2833099158-a.codehs.me/index.html"
+  "https://esaeyaznev-2833099158-a.codehs.me/index.html",
+  "https://yhvmbxspda-2888472698-a.codehs.me/index.html"
 ];
 
 var gridWidth = 4;
