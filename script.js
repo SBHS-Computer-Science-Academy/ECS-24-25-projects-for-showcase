@@ -78,7 +78,7 @@ function generateCard(names, imageName, altText, url)
 function makeCard() {
     if (idx >= names.length) return;
     var name = names[idx];
-    var file = name.replaceAll(" ","").replaceAll(",","").replace("and","");
+    var file = name.replace(" and ","").replaceAll(" ","").replaceAll(",","");
     var card = generateCard(name, file + ".png", "", urls[idx]);
     gridHtml += card; //not elegant, but it works
     
